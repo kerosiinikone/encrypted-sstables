@@ -2,7 +2,7 @@
 
 A little learning project in Rust, systems concepts and cryptography. _Compacting feature is missing_.
 
-## Testing
+## Testing (Win)
 
 #### Running with flags (_set your own segment password_)
 
