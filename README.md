@@ -1,6 +1,6 @@
 # enc-kv-store
 
-A little learning project in Rust, systems concepts and cryptography. _Compacting feature is missing_.
+A key-value store that saves segments to disk as sorted strings. A little learning project in Rust, systems concepts and cryptography. _Compacting feature is missing_.
 
 ## Testing (Win)
 
